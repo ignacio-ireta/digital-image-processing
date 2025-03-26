@@ -167,8 +167,29 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ruff stuff:
-.ruff_cache/
-
 # PyPI configuration file
 .pypirc
+
+# Sample files
+
+P1_Spatial_properties_and_filters/Input
+P1_Spatial_properties_and_filters/Output
+
+P2_Border_detection/Input
+P2_Border_detection/Output
+
+P3_Affine_transformations/Input
+P3_Affine_transformations/Output
+
+P4_Frequency_domain_filtering/Input
+P4_Frequency_domain_filtering/Output
+
+P5_Image_restoration/Input
+P5_Image_restoration/Output
+
+P6A_Segmentation/Input
+P6A_Segmentation/Output
+
+P6B_Feature_extraction_and_descriptors/Fruits
+
+scaffold
